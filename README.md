@@ -1,4 +1,4 @@
 # deeplearning-basics
 
 
-Basic implementations of some deep learning models from scratch using NumPy.
+This repository contains my implementations of deep learning concepts from scratch using NumPy. They are based on the book Grokking Deep Learning by Andrew W. Trask.
